@@ -54,7 +54,7 @@ Ensuring consistent data formats, key columns like Discount, actual_price, and s
 
 Standardizing data formats ensures consistency and facilitates numerical operations, enabling accurate analysis.
 
-## Complex Data
+## Incomplete Data 
 
 The “brand” column presented incomplete brand names, addressed by utilizing the “url” column to extract brand names between two delimiters. While effective in most cases, challenges arose with multi-word brand names. The **`seller`** column underwent multiple cleaning processes, including delimiting and value replacement, to ensure accurate and uniform data within the column. 
 
